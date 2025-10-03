@@ -13,6 +13,7 @@ const Popmodal = ({
 }) => {
   const handleClose = () => {
     setShowModal(false);
+    
   };
 // submit
 
