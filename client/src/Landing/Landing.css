@@ -1,0 +1,36 @@
+.hero{
+    margin-top:5rem;
+}
+
+.intro-text{
+    font-size:1rem;
+    text-align:center;
+    color:#c3195d;
+}
+.btn{
+    margin-top:2rem;
+    display:inline-block;
+    padding:0.8rem 1rem;
+    bordr:none;
+    font-size:1rem;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+
+}
+.red{
+    background-color:#c3195d;
+    margin-right:1.5rem;
+
+}
+.red:hover{
+ background-color:#680747;
+ cursor:pointer;
+}
+.blue{
+background-color:#005792;
+cursor:pointer;
+}
+.blue:hover{
+ background-color:#5dacbd;
+}
